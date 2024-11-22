@@ -118,7 +118,8 @@ https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
-https://oipf0znpmnliv.vcdn.cloud/hls/vtc1/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD
