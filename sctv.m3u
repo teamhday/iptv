@@ -233,6 +233,9 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/woman/index.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="In The Box" tvg-logo="https://img.lichphatsong.xyz/logo/arirang.png",Arirang
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/arirang/index.m3u8
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NTV HD | TH Ninh Bình
 https://oipf0znpmnliv.vcdn.cloud/hls/thninhbinh/index.m3u8
