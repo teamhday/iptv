@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
@@ -28,18 +27,14 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8
-
-
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?
+#EXTINF:-1 tvg-id="thvl3" group-title="Kênh địa phương" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png",Vĩnh Long 3
+https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?
@@ -49,7 +44,9 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8
-
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?
@@ -83,7 +80,6 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
-
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
@@ -106,7 +102,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab15/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
-
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/htv2/index.m3u8
@@ -116,7 +111,6 @@ https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8
-
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8
@@ -129,7 +123,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtc10/index.m3u8
-
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://oipf0znpmnliv.vcdn.cloud/hls/antv/index.m3u8
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
@@ -141,7 +134,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thquochoi/index.m3u8
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8?token=Z2YSNNMDA5f2Q2kfYoK6Yw&e=1720250840
@@ -211,7 +203,6 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
-
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
@@ -239,7 +230,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/arirang/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="In The Box" tvg-logo="https://i.imgur.com/kG15PtH",Channel NewsAsia
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
-
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet [Eng]
