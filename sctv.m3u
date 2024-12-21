@@ -40,7 +40,7 @@ https://tv.TruyenHinh.Click/CoBan/thvl3/TuyetDoiKhongKinhDoanh
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8
