@@ -1,30 +1,31 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:0 tvg-id="vtv1hd" group-title="Regular" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.249:30120
+http://125hvt.ddns.net:21585/vtv1/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="Regular" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.13:30120
+http://125hvt.ddns.net:21585/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="Regular" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.247:30120
+http://125hvt.ddns.net:21585/vtv3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="Regular" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.20:30120
+http://125hvt.ddns.net:21585/vtv4/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="Regular" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.131:30120
+http://125hvt.ddns.net:21585/vtv5/index.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="Regular" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.245:30120
+http://125hvt.ddns.net:21585/vtv6/index.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="Regular" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.96:30120
+http://125hvt.ddns.net:21585/vtv7/index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="Regular" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.166:30120
+http://125hvt.ddns.net:21585/vtv8/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="Regular" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.128:30120
+http://125hvt.ddns.net:21585/vtv9/index.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Regular" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.155:30120
+http://125hvt.ddns.net:21585/thvl1/index.m3u8
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Regular" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.154:30120
+http://125hvt.ddns.net:21585/thvl2/index.m3u8
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Regular" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.235:30120
+http://125hvt.ddns.net:21585/thvl3/index.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Regular" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.2.25:30120
+http://125hvt.ddns.net:21585/thvl4/index.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="Regular" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.192:30120
+http://125hvt.ddns.net:21585/htv7/index.m3u8
 #EXTINF:0 tvg-id="htv9hd" group-title="Regular" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
-http://192.168.31.1:4025/udp/225.1.1.190:30120
+http://125hvt.ddns.net:21585/htv9/index.m3u8
