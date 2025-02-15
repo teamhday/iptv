@@ -113,17 +113,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
 
-#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
-https://oipf0znpmnliv.vcdn.cloud/hls/antv/index.m3u8
-#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
-https://oipf0znpmnliv.vcdn.cloud/hls/thnhandan/index.m3u8
-#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
-#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",QUỐC HỘI TV
-https://oipf0znpmnliv.vcdn.cloud/hls/thquochoi/index.m3u8
-#EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
+
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
@@ -168,7 +159,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8
