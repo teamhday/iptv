@@ -59,6 +59,46 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpRXpJg.png" tvg-id="1271750842559970b1043dfd6df25140" tvg-chno="29",ON Sports News (HD 8Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/141914386?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="647a588bcf269bb191cec92c5cc92653" tvg-chno="30",ON Sports (HD 8.5Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/190347876?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" tvg-id="6d984bebf83d72c8d4d509d0a4db1267" tvg-chno="31",ON Football HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1800116333?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" tvg-id="aeda60e90349f0950f6c2043b86b3244" tvg-chno="32",ON Sports+
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1767955118?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGF2I58.png" tvg-id="8a4624da06b9f7a05f65c12bba615d91" tvg-chno="33",ON Golf
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1512326794?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png" tvg-id="f224d942c011bf862a862ac8b979e5d6" tvg-chno="34",ON Vie Giáº£i TrĂ­
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1121527026?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" tvg-id="8abbb9e15cfd4a5a27c795e220ad6b2f" tvg-chno="35",ON Phim Viá»‡t
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1639562122?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png" tvg-id="1790781dd38bb74613a2b1caf743c005" tvg-chno="36",ON Cine
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/494440471?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6LQ0Z1O.png" tvg-id="2a27562356feefc5a5b07fa8bbf26ebf" tvg-chno="37",On Style
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/592848682?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png" tvg-id="fa9a10366f6abf3d59714fdad609ec09" tvg-chno="38",ON Trending
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/907057914?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png" tvg-id="5d8e56bcd74a739b931ed2980cfd483c" tvg-chno="39",ON BiBi
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1012305501?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QICK7.png" tvg-id="c47fee46823e9cb1472c4084ea3f9bfb" tvg-chno="40",ON Vie DRAMAS
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1190035396?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xT5HFx.png" tvg-id="b407b9cb4ae9a5573c9fd52184f4561e" tvg-chno="41",ON Life (HD 7Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1270417332?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png" tvg-id="ef67fe53d853b46d9580f57cebb30956" tvg-chno="42",ON O2TV
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1409181679?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png" tvg-id="1d1a3753e8783e62b5f412d5104b671e" tvg-chno="42",ON VFamily
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1396120093?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2SzhHG.png" tvg-id="ed0b735c9477abc8c5ec059547e75928" tvg-chno="43",ON Kids (HD 7Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1551043565?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png" tvg-id="15a968e0af09fe17179cf62b8d95e6b3" tvg-chno="44",ON Music
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1617471765?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png" tvg-id="64a3236d063df2cfc429d33611a774ca" tvg-chno="45",ON Movies (HD 8.5Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1831052132?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" tvg-id="27d59fef77e2efce4c77bb33034d4037" tvg-chno="46",ON Echannel
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1872745767?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" tvg-id="d38ab4f19d57198fde500635feb610b7" tvg-chno="47",ON Info TV
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1907657427?profile=pass
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
@@ -75,18 +115,20 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://p1.cvtv.xyz:81/bbcn?token=live
-#EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-http://p1.cvtv.xyz:81/bb?token=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="e20c1cde4488e550d39e82710e875d83" tvg-chno="97",BBC Earth
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1578896610?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="c140655b03e219c98705c00b102a1f8c" tvg-chno="96",Bloomberg
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1533362369?profile=pass
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
-http://p1.cvtv.xyz:81/cnn?token=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="bee4c221d659b924a66edf92aba2c924" tvg-chno="86",BBC Life Style
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/566420670?profile=pass
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nhk-world" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
-http://p1.cvtv.xyz:81/nhkw?token=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hXYkO7B.png" tvg-id="c4b0ba6b32923d0b372c0d7bac159663" tvg-chno="77",SPOTV1 HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1807397060?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBKmDBi.png" tvg-id="8f26bf4668d20e1c70f5fd21c1a54ad2" tvg-chno="78",SPOTV2 HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1186932367?profile=pass
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits
@@ -95,7 +137,6 @@ https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -160,7 +201,6 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/onplus/onplus.png" group-title="ON Plus",ON Plus UFC
 https://freem3u.xyz/api/live/play.m3u8?oid=vothuatvn
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yBnxfhH/sctv1-hd.png",SCTV1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
@@ -232,24 +272,14 @@ https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kaction" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kaction/KenhBoSung",K+ Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kkidshd/KenhBoSung",K+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="7fdebb0cb0171de03e28129255562b62" tvg-chno="24",K+Sport1 HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/213638783?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="9e22c0d9e0a490af466cecae9b44459c" tvg-chno="25",K+Sport2 HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1505763998?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="1365507bec94856e89f4090616efa8dc" tvg-chno="26",K+Action
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/2068866323?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="86843a2bb67b14326f922045a5e31e3d" tvg-chno="27",K+Cine HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/725255302?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="c8c15f0cf690773a9edfbd578cf11c2e" tvg-chno="28",K+Kids HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/207602120?profile=pass
 
