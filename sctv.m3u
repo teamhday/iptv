@@ -107,12 +107,24 @@ http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="4a88d6aa2ccb4c4e67d8f44d44af118c" tvg-chno="88",Dreamworks HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/718702666?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vHmt91V.png" tvg-id="820b1eb79e3e55e9f0c0556d840fcc8a" tvg-chno="91",Dmax
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/924715906?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="1b036f3a8051bc257982f4ea7d333417" tvg-chno="92",Cartoon Network HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/980353819?profile=pass
 #EXTINF:-1 tvg-id="kix" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg", Kix
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="Quốc Tế",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" tvg-id="4cb14f6b94a990e20bc2264cd6e89331" tvg-chno="98",Cinema World HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1800384844?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="ab73f8f0a0ded2ec4ea6184ec8d4a084" tvg-chno="99",BBC CBeeBies (HD 9Mbps)
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1895330731?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZStxdQI.png" tvg-id="96d9aa781c44e6d2c84bc02b94b68394" tvg-chno="100",Travel & Living HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/2024462742?profile=pass
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="e20c1cde4488e550d39e82710e875d83" tvg-chno="97",BBC Earth
@@ -121,6 +133,8 @@ http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1578896610?profile=p
 http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/1533362369?profile=pass
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="e6eb7b7c7c05824643907884f280117e" tvg-chno="101",Animal Planet HD
+http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/2088496102?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="bee4c221d659b924a66edf92aba2c924" tvg-chno="86",BBC Life Style
 http://hoazippo:123@hoatv001.ddns.net:9981/stream/channelid/566420670?profile=pass
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
