@@ -20,17 +20,17 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-1/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-2/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" group-logo="https://tv.hoiquan.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.hoiquan.Click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png",Vĩnh Long 3
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-3/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 HD - Vĩnh Long 4
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-4/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv7-hd/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv9-hd/KenhCoBan.m3u8
+https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
