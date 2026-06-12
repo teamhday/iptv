@@ -26,7 +26,7 @@ https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" group-logo="https://tv.hoiquan.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.hoiquan.Click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_480_270.png",Vĩnh Long 3
 https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 HD - Vĩnh Long 4
-https://live.fptplay53.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
