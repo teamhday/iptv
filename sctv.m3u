@@ -150,25 +150,63 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
-#EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
-#EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305", HBO Signature HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg", BBC World News
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1775992&extension=ts&play_token=KEhyEZK2lr
-#EXTINF:-1 tvg-id="kix" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg", Kix
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="Quốc Tế",Da Vinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
-
-
+#EXTINF:0 group-title="SPOTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/60/0c/ce/e6/6b/b9/60ce6-pspotvhd-channel-unkn.png",SPOTV (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=632
+#EXTINF:0 group-title="SPOTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/53/3d/db/b8/85/59/53db8-pspotv2hd-channel-unkn.png",SPOTV2 (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=633
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png",CINEMAWORLD HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=523
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png",CartoonNetwork HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=592
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/93/3c/c3/3a/ab/be/93c3a-pcnnhd-channel-unkn.png",CNN HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=593
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/68/8a/a7/70/06/6f/68a70-paxnhd-channel-unkn.png",AXN HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=590
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png",Hollywood Classic
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=866
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/34/40/05/5b/b7/72/3405b-pwomen-channel-unkn.png",Woman
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=869
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/be/ed/de/e9/92/2a/bede9-pdmaxhd-channel-unkn.png",DMAX (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=739
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3c/cb/b3/37/74/49/3cb37-pdiscoveryhd-channel-unkn.png",Discovery(HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=594
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/02/29/9b/bd/da/aa/029bd-pftvhd-channel-unkn.png",FTV(HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=595
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/3e/e1/1d/df/f7/7c/3e1df-pwarnerhd-channel-unkn.png",Warner HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=597
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c7/7d/df/fb/bc/c3/c7dfb-panimalplannethd-channel-unkn.png",Animal Plannet HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=589
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ce/e5/50/09/97/74/ce509-ptlchd-channel-unkn.png",TLC HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=596
+#EXTINF:0 group-title="Khác" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/85/52/2c/cd/d8/8f/852cd-pknh0-channel-unkn.png",VNPT Promo
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=339
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ab/bd/d3/3e/e6/64/abd3e-pmusicboxhd-channel-unkn.png",Music Box (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=69
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/6b/b5/56/68/84/e6b56-pboxhitshd-channel-unkn.png",Box Hits (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=105
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png",DreamWorks (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=553
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/58/84/45/5f/f8/8c/5845f-poutdoorhd-channel-unkn.png",Outdoor HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=191
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b0/0b/b6/6e/e8/86/b0b6e-pdavincihd-channel-unkn.png",DaVinci HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=294
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/33/33/32/20/08/8d/33320-pasianfoodnetworkhd-channel-unkn.png",Asian Food Network (HD)
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=298
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/01/13/3a/a4/4a/a4/013a4-pcnbc-channel-unkn.png",CNBC
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=358
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/82/2f/fb/b6/6d/d7/82fb6-pkbsworld-channel-unkn.png",KBS World
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=306
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/48/8c/cf/f9/9e/e6/48cf9-parirang-channel-unkn.png",Arirang
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=63
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/b2/26/6b/bc/c6/6d/b26bc-pfrance24-channel-unkn.png",France24
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=308
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/79/92/2a/a7/76/64/792a7-ptv5monde-channel-unkn.png",TV5 MONDE
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=83
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/69/91/15/50/06/60/69150-pchannelnewsasiahd-channel-unkn.png",Channel News Asia HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=366
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/38/85/5a/aa/a1/1b/385aa-pdwhd-channel-unkn.png",DW-HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=313
+#EXTINF:0 group-title="QNET" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6a/a4/46/6f/f0/0f/6a46f-pnhkworldjapanhd-channel-unkn.png",NHK World Japan HD
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=185
 #EXTINF:-1 group-title="TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
