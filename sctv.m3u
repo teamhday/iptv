@@ -9,7 +9,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc-384/vtv3-avc1_5
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc-384/vtv4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv5hd",VTV5
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc-384/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://hoatv001.ddns.net/logo/VTV6.png" tvg-id="vtv6hd",VTV6
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV6_logo2026.jpg?raw=true" tvg-id="vtv6hd",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc-384/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="vtv7hd",VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc-384/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -80,7 +80,7 @@ https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTV Cab" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-2-phim-viet-hd/KenhCoBan.png",VTVcab 2 - Phim Việt HD
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTV Cab" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-2-phim-viet-hd/KenhCoBan.png",VTVcab 2 - Phim Việt HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab HD" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
@@ -136,15 +136,15 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvcdulichhd.jpg",HTVC DU LỊCH & CUỘC SỐNG HD
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg" ,HTVC GIA ĐÌNH HD
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=11
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg",HTVC Phụ Nữ
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphimhd.jpg",HTVC Phim HD
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=15
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg" ,HTVC PLUS
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvccanhachd.jpg" ,HTVC CA NHẠC
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=14
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
