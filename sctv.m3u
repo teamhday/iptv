@@ -1,11 +1,11 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="vtv1hd",VTV1
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV1.png?raw=true" tvg-id="vtv1hd",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc-384/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="vtv2hd",VTV2
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV2.png?raw=true" tvg-id="vtv2hd",VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc-384/vtv2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="vtv3hd",VTV3
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV3.png?raw=true" tvg-id="vtv3hd",VTV3
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc-384/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="vtv4hd",VTV4
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV4.png?raw=true" tvg-id="vtv4hd",VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc-384/vtv4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv5hd",VTV5
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc-384/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
