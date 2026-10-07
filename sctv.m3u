@@ -7,7 +7,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc-384/vtv2-avc1_5
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc-384/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV4.png?raw=true" tvg-id="vtv4hd",VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc-384/vtv4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv5hd",VTV5
+#EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV5.png?raw=true" tvg-id="vtv5hd",VTV5
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc-384/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/VTV6.png?raw=true" tvg-id="vtv6hd",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc-384/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -25,9 +25,9 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc-384/vinhlo
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc-384/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/THVL4.png?raw=true",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8?sign=1791335421-Nzg0NTQ4Mg-0-61e4cfb58274290acf001208d357f58e
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/HTV7.png?raw=true",HTV7
 https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc-384/htv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/HTV9.png?raw=true",HTV9
 https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc-384/htv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8?sign=1791338853-Nzg0NTQ4Mg-0-2034812fd52689cf9789c411b64df9f2
