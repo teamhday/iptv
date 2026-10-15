@@ -29,9 +29,9 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc-384/vinhlo
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8?sign=1791335421-Nzg0NTQ4Mg-0-61e4cfb58274290acf001208d357f58e
 #-------------------HTV-------------------#
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/HTV7.png?raw=true",HTV7
-https://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/HTV9.png?raw=true",HTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=193
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://github.com/teamhday/LogoTV/blob/main/HTV9.png?raw=true",HTV9
+https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8?sign=1791338853-Nzg0NTQ4Mg-0-2034812fd52689cf9789c411b64df9f2
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
